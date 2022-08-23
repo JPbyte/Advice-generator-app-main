@@ -34,8 +34,8 @@ Desktop design
 
 ### Links
 
-- Solution URL: [Advice generator app solution]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [Advice generator app solution](https://www.frontendmentor.io/solutions/advice-generator-app-solution-vF6OjghUtO)
+- Live Site URL: [Add live site URL here](https://jpbyte.github.io/Advice-generator-app-main/)
 
 ## My process
 
